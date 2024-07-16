@@ -27,4 +27,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SATHISH1-234/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
