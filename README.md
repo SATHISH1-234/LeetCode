@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/SATHISH1-234/LeetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
