@@ -2,7 +2,7 @@ int mostWordsFound(char** sentences, int sentencesSize) {
     int max=0;
     for(int i=0;i<sentencesSize;i++)
     {
-        char word[400][400];
+        char word[100][100];
         int m=0,n=0;
         for(int j=0;j<strlen(sentences[i]);j++)
         {
