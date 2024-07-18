@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/SATHISH1-234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SATHISH1-234/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SATHISH1-234/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/SATHISH1-234/LeetCode/tree/master/0742-to-lower-case) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
 | ------- |
