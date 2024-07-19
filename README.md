@@ -54,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATHISH1-234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SATHISH1-234/LeetCode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/SATHISH1-234/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/SATHISH1-234/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
