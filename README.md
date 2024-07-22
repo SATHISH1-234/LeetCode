@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SATHISH1-234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
