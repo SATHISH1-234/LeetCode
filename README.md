@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SATHISH1-234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SATHISH1-234/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATHISH1-234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
