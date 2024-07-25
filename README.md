@@ -14,6 +14,7 @@
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/SATHISH1-234/LeetCode/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -26,6 +27,7 @@
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SATHISH1-234/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SATHISH1-234/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/SATHISH1-234/LeetCode/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/SATHISH1-234/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/SATHISH1-234/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -116,6 +119,7 @@
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SATHISH1-234/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Matrix
 |  |
 | ------- |
