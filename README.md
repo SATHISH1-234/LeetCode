@@ -83,6 +83,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/SATHISH1-234/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/SATHISH1-234/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SATHISH1-234/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -95,16 +96,19 @@
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHISH1-234/LeetCode/tree/master/0035-search-insert-position) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/SATHISH1-234/LeetCode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
 | ------- |
