@@ -28,6 +28,7 @@
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SATHISH1-234/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
@@ -74,6 +75,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/SATHISH1-234/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/SATHISH1-234/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SATHISH1-234/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SATHISH1-234/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
