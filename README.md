@@ -26,6 +26,7 @@
 | [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
