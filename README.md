@@ -24,6 +24,7 @@
 | [0012-integer-to-roman](https://github.com/SATHISH1-234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/SATHISH1-234/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHISH1-234/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SATHISH1-234/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
