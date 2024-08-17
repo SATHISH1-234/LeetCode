@@ -55,6 +55,7 @@
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SATHISH1-234/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1899-count-items-matching-a-rule](https://github.com/SATHISH1-234/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1970-sorting-the-sentence](https://github.com/SATHISH1-234/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SATHISH1-234/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SATHISH1-234/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/SATHISH1-234/LeetCode/tree/master/2502-sort-the-people) |
@@ -129,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1970-sorting-the-sentence](https://github.com/SATHISH1-234/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/SATHISH1-234/LeetCode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
