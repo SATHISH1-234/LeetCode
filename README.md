@@ -84,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/SATHISH1-234/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -114,6 +115,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -123,6 +125,7 @@
 | [0069-sqrtx](https://github.com/SATHISH1-234/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SATHISH1-234/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SATHISH1-234/LeetCode/tree/master/0441-arranging-coins) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -173,6 +176,7 @@
 | ------- |
 | [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
