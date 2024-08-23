@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SATHISH1-234/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SATHISH1-234/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
