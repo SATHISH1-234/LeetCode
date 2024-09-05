@@ -30,6 +30,7 @@
 | [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SATHISH1-234/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SATHISH1-234/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SATHISH1-234/LeetCode/tree/master/0342-power-of-four) |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/SATHISH1-234/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/SATHISH1-234/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -211,6 +213,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/SATHISH1-234/LeetCode/tree/master/2491-smallest-even-multiple) |
