@@ -45,6 +45,7 @@
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/SATHISH1-234/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/SATHISH1-234/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/SATHISH1-234/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SATHISH1-234/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/SATHISH1-234/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -183,6 +184,7 @@
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SATHISH1-234/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/SATHISH1-234/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SATHISH1-234/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Matrix
 |  |
