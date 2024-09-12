@@ -38,6 +38,7 @@
 | [0367-valid-perfect-square](https://github.com/SATHISH1-234/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SATHISH1-234/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SATHISH1-234/LeetCode/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/SATHISH1-234/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SATHISH1-234/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/SATHISH1-234/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/SATHISH1-234/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
