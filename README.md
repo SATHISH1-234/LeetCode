@@ -103,6 +103,7 @@
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/SATHISH1-234/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -181,6 +182,7 @@
 | [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/SATHISH1-234/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/SATHISH1-234/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/SATHISH1-234/LeetCode/tree/master/1791-richest-customer-wealth) |
