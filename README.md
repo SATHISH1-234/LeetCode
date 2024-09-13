@@ -41,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SATHISH1-234/LeetCode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/SATHISH1-234/LeetCode/tree/master/0504-base-7) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/SATHISH1-234/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
