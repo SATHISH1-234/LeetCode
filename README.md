@@ -26,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/SATHISH1-234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SATHISH1-234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/SATHISH1-234/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SATHISH1-234/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0202-happy-number) |
@@ -64,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/SATHISH1-234/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SATHISH1-234/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SATHISH1-234/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SATHISH1-234/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SATHISH1-234/LeetCode/tree/master/0242-valid-anagram) |
@@ -180,6 +182,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SATHISH1-234/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SATHISH1-234/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
@@ -202,6 +205,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SATHISH1-234/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SATHISH1-234/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
