@@ -9,13 +9,13 @@ public:
         while (i >= 0 || j >= 0 || carry) {
             int sum = carry;
             if (i >= 0) {
-                sum += a[i--] - '0'; // Convert char to int
+                sum += a[i--] - '0'; 
             }
             if (j >= 0) {
-                sum += b[j--] - '0'; // Convert char to int
+                sum += b[j--] - '0'; 
             }
-            carry = sum / 2; // Update carry for next iteration
-            result.push_back((sum % 2) + '0'); // Append the current bit to the result
+            carry = sum / 2; 
+            result.push_back((sum % 2) + '0');
         }
         
         reverse(result.begin(), result.end()); // Reverse the result string
