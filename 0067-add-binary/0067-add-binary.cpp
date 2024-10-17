@@ -18,7 +18,7 @@ public:
             result.push_back((sum % 2) + '0');
         }
         
-        reverse(result.begin(), result.end()); // Reverse the result string
+        reverse(result.begin(), result.end()); 
         return result;
     }
 };
