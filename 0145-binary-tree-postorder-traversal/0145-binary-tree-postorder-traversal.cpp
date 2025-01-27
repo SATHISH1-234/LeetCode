@@ -12,16 +12,16 @@
 class Solution {
     public:
     vector<int> list;
-    void preorder(TreeNode* root) {
+    void postorder(TreeNode* root) {
         if (root == NULL)
             return;
-        preorder(root->left);
-        preorder(root->right);
+        postorder(root->left);
+        postorder(root->right);
         list.push_back(root->val);
     }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        preorder(root);
+        postorder(root);
         return list;
     }
 };
