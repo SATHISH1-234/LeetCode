@@ -75,6 +75,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0742-to-lower-case](https://github.com/SATHISH1-234/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SATHISH1-234/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -280,6 +281,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -289,6 +291,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -299,6 +302,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -306,5 +310,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/SATHISH1-234/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
