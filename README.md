@@ -119,6 +119,7 @@
 | [1580-shuffle-the-array](https://github.com/SATHISH1-234/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/SATHISH1-234/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SATHISH1-234/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/SATHISH1-234/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/SATHISH1-234/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SATHISH1-234/LeetCode/tree/master/2058-concatenation-of-array) |
