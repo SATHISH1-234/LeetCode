@@ -113,6 +113,7 @@
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SATHISH1-234/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/SATHISH1-234/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
