@@ -334,4 +334,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SATHISH1-234/LeetCode/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SATHISH1-234/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
