@@ -76,6 +76,7 @@
 | [0344-reverse-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SATHISH1-234/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SATHISH1-234/LeetCode/tree/master/0415-add-strings) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -154,6 +155,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SATHISH1-234/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SATHISH1-234/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -234,6 +236,7 @@
 | [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
