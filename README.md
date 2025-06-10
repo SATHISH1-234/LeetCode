@@ -84,6 +84,7 @@
 | [0742-to-lower-case](https://github.com/SATHISH1-234/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SATHISH1-234/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SATHISH1-234/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/SATHISH1-234/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/SATHISH1-234/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SATHISH1-234/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -240,6 +241,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SATHISH1-234/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/SATHISH1-234/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
