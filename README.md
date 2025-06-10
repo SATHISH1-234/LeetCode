@@ -113,6 +113,7 @@
 | [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SATHISH1-234/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/SATHISH1-234/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SATHISH1-234/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SATHISH1-234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0268-missing-number) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -306,6 +308,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -326,6 +329,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/SATHISH1-234/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SATHISH1-234/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SATHISH1-234/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design
@@ -349,4 +353,8 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/SATHISH1-234/LeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SATHISH1-234/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
