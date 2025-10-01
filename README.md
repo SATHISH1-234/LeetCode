@@ -105,6 +105,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATHISH1-234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SATHISH1-234/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/SATHISH1-234/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SATHISH1-234/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SATHISH1-234/LeetCode/tree/master/0075-sort-colors) |
@@ -359,4 +360,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SATHISH1-234/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
