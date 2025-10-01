@@ -109,6 +109,7 @@
 | [0055-jump-game](https://github.com/SATHISH1-234/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SATHISH1-234/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SATHISH1-234/LeetCode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SATHISH1-234/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -241,6 +243,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/SATHISH1-234/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SATHISH1-234/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SATHISH1-234/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SATHISH1-234/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -364,4 +368,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SATHISH1-234/LeetCode/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
