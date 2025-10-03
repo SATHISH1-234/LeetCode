@@ -154,6 +154,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SATHISH1-234/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/SATHISH1-234/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SATHISH1-234/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATHISH1-234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SATHISH1-234/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SATHISH1-234/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SATHISH1-234/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
