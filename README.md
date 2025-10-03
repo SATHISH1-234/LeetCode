@@ -115,6 +115,7 @@
 | [0075-sort-colors](https://github.com/SATHISH1-234/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SATHISH1-234/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SATHISH1-234/LeetCode/tree/master/0136-single-number) |
@@ -253,6 +254,7 @@
 | [0055-jump-game](https://github.com/SATHISH1-234/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/SATHISH1-234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHISH1-234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SATHISH1-234/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SATHISH1-234/LeetCode/tree/master/0152-maximum-product-subarray) |
