@@ -260,6 +260,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/SATHISH1-234/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SATHISH1-234/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SATHISH1-234/LeetCode/tree/master/0326-power-of-three) |
@@ -386,4 +387,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SATHISH1-234/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/SATHISH1-234/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
